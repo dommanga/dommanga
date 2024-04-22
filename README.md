@@ -10,7 +10,7 @@
 
 ## Projects & Contests
 - 🏆 METAVERSE Contest `2021`
-- 🏆 Data Campus Contest `2021`
+- 🏆 Smart Campus Data Contest `2021`
 - 🔍 Undergraduate Group Research Program: NFT-I `2022`
 - 🔥 POAPPER hackathon `2022`
 
