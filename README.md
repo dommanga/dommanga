@@ -1,4 +1,22 @@
-### Hi there 👋
+# Jimi
+- 🏫 POSTECH
+- 💻 Computer Science & Engineering
+
+## Interests
+- ⚡Computer Vision
+- ⚡Artificial Intelligence
+
+## Projects & Contests
+- 🏆 METAVERSE Contest `2021`
+- 🏆 Data Campus Contest `2021`
+- 🔍 Undergraduate Group Research Program: NFT-I `2022`
+- 🔥 POAPPER hackathon `2022`
+- 🔍 Interaction Lab Internship `2022 Winter`
+- 👍 Consumer Technology Association `2023 Winter`
+
+## Languages
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dommanga&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 <!--
 **dommanga/dommanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
