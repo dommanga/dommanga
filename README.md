@@ -13,8 +13,10 @@
 - 🏆 Data Campus Contest `2021`
 - 🔍 Undergraduate Group Research Program: NFT-I `2022`
 - 🔥 POAPPER hackathon `2022`
+
+## Experiences
 - 🔍 Interaction Lab Internship `2022 Winter`
-- 👍 Consumer Technology Association `2023 Winter`
+- 👍 Consumer Electronics Show `2023 Winter`
 
 
 <!--
