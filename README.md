@@ -15,8 +15,8 @@
 - 🔥 POAPPER hackathon `2022`
 
 ## Experiences
-- 🔍 Interaction Lab Internship `2022 Winter`
-- 👍 Consumer Electronics Show `2023 Winter`
+- 🔍 Interaction Lab Internship `2023`
+- 👍 Consumer Electronics Show `2024`
 
 
 <!--
