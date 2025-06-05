@@ -4,8 +4,8 @@
 
 
 ## Interests
-- ⚡Computer Vision
-- ⚡Artificial Intelligence
+- ⚡Human-Computer Interaction (HCI)
+- ⚡Computer Graphics
 
 
 ## Projects & Contests
@@ -13,10 +13,23 @@
 - 🏆 Smart Campus Data Contest `2021`
 - 🔍 Undergraduate Group Research Program: NFT-I `2022`
 - 🔥 POAPPER hackathon `2022`
+- 🔥 PPC (Postech Programming Contest) `2024`
 
 ## Experiences
 - 🔍 Interaction Lab Internship `2023`
 - 👍 Consumer Electronics Show `2024`
+- 🧠 Plask Internship - Software Engineering Intern at an AI Motion Capture Startup `2024`
+- 🌍 Exchange Program at INSA Lyon, France `2024`
+
+## Outside of Code (Let me guess)
+<abbr title="Cooking">🍳</abbr>
+<abbr title="Swimming">🏊</abbr>
+<abbr title="Basketball">🏀</abbr>
+<abbr title="Reading">📖</abbr>
+<abbr title="Listening to Music">🎧</abbr>
+<abbr title="Writing">✒️</abbr>
+<abbr title="Cycling">🚲</abbr>
+<abbr title="Learing French">🇫🇷</abbr>
 
 
 <!--
