@@ -22,14 +22,7 @@
 - 🌍 Exchange Program at INSA Lyon, France `2024`
 
 ## Outside of Code (Let me guess)
-<abbr title="Cooking">🍳</abbr>
-<abbr title="Swimming">🏊</abbr>
-<abbr title="Basketball">🏀</abbr>
-<abbr title="Reading">📖</abbr>
-<abbr title="Listening to Music">🎧</abbr>
-<abbr title="Writing">✒️</abbr>
-<abbr title="Cycling">🚲</abbr>
-<abbr title="Learing French">🇫🇷</abbr>
+🍳🏊🏀📖🎧✒️🚲🇫🇷
 
 
 <!--
