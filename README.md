@@ -22,7 +22,7 @@
 - 🌍 Exchange Program at INSA Lyon, France `2024`
 
 ## Outside of Code (Let me guess)
-🍳🏊🏀📖🎧✒️🚲🇫🇷
+🍳🏊🏀📖🎧✒️🚲
 
 
 <!--
