@@ -21,7 +21,7 @@
 - 🧠 Plask Internship - Software Engineering Intern at an AI Motion Capture Startup `2024`
 - 🌍 Exchange Program at INSA Lyon, France `2024`
 
-## Outside of Code (Let me guess)
+## Outside of Code - Let me guess..
 🍳🏊🏀📖🎧✒️🚲
 
 
